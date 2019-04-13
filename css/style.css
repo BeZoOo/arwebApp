@@ -17782,3 +17782,7 @@ a.create{background:url(../images/ic_add_red.svg) no-repeat left center; backgro
 .trpdtls_content.booking_confirmation_content .block .title {
   font-size: 1.4rem;
 }
+.reason_code_option input:checked + div label {
+  background: url(../images/check_rectangle_on.svg) no-repeat left center;
+  background-size: 15px 15px;
+}
