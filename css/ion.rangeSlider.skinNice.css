@@ -1,0 +1,66 @@
+.irs-line-mid, .irs-line-left, .irs-line-right, .irs-bar, .irs-bar-edge, .irs-slider {background: url(../img/sprite-skin-nice.png) repeat-x;}
+
+.irs {height: 40px;}
+.irs-with-grid {height: 60px;}
+.irs-line {height: 8px;top: 25px;}
+.irs-line-left {height: 8px; background-position: 0 -30px;}
+.irs-line-mid {height: 8px; background-position: 0 0;}
+.irs-line-right {height: 8px; background-position: 100% -30px;}
+.irs-bar {height: 8px; top: 25px; background-position: 0 -60px;}
+.irs-bar-edge {top: 25px; height: 8px; width: 11px; background-position: 0 -90px;}
+.irs-shadow {height: 1px; top: 34px; background: #000; opacity: 0.15;}
+.lt-ie9 .irs-shadow {filter: alpha(opacity=15);}
+.irs-slider {width: 22px; height: 22px; top: 17px; background-position: 0 -120px;}
+.irs-slider.state_hover, .irs-slider:hover {background-position: 0 -150px;}
+.irs-min, .irs-max {color: #666D7B; font-size: 14px; line-height: 1.333; text-shadow: none;	top: 0;	padding: 1px 3px; -moz-border-radius: 3px;}
+.lt-ie9 .irs-min, .lt-ie9 .irs-max {background: #ccc;}
+.irs-from, .irs-to, .irs-single {color: #fff; font-size: 10px; line-height: 1.333; text-shadow: none; padding: 1px 5px; background: rgba(0,0,0,0.3); -moz-border-radius: 3px; border-radius: 3px;}
+.lt-ie9 .irs-from, .lt-ie9 .irs-to, .lt-ie9 .irs-single {background: #999;}
+.irs-grid-pol {background: #99a4ac;}
+.irs-grid-text {color: #99a4ac;}
+.irs-disabled {}
+
+/*----------------- Hotels ---------------*/
+.hotels .irs-line-mid, .hotels .irs-line-left, .hotels .irs-line-right, .hotels .irs-bar, .hotels .irs-bar-edge, .hotels .irs-slider {background: url(../img/sprite-skin-purple.png) repeat-x;}
+
+.hotels .irs {height: 40px;}
+.hotels .irs-with-grid {height: 60px;}
+.hotels .irs-line {height: 8px;top: 25px;}
+.hotels .irs-line-left {height: 8px; background-position: 0 -30px;}
+.hotels .irs-line-mid {height: 8px; background-position: 0 0;}
+.hotels .irs-line-right {height: 8px; background-position: 100% -30px;}
+.hotels .irs-bar {height: 8px; top: 25px; background-position: 0 -60px;}
+.hotels .irs-bar-edge {top: 25px; height: 8px; width: 11px; background-position: 0 -90px;}
+.hotels .irs-shadow {height: 1px; top: 34px; background: #000; opacity: 0.15;}
+.hotels .lt-ie9 .irs-shadow {filter: alpha(opacity=15);}
+.hotels .irs-slider {width: 22px; height: 22px; top: 17px; background-position: 0 -120px;}
+.hotels .irs-slider.state_hover, .hotels .irs-slider:hover {background-position: 0 -150px;}
+.hotels .irs-min, .hotels .irs-max {color: #666D7B; font-size: 14px; line-height: 1.333; text-shadow: none;	top: 0;	padding: 1px 3px; -moz-border-radius: 3px;}
+.hotels .lt-ie9 .irs-min, .hotels .lt-ie9 .irs-max {background: #ccc;}
+.hotels .irs-from, .hotels .irs-to, .hotels .irs-single {color: #fff; font-size: 10px; line-height: 1.333; text-shadow: none; padding: 1px 5px; background: rgba(0,0,0,0.3); -moz-border-radius: 3px; border-radius: 3px;}
+.hotels .lt-ie9 .irs-from, .hotels .lt-ie9 .irs-to, .hotels .lt-ie9 .irs-single {background: #999;}
+.hotels .irs-grid-pol {background: #99a4ac;}
+.hotels .irs-grid-text {color: #99a4ac;}
+
+
+/*----------------- Hotels ---------------*/
+.cars .irs-line-mid, .cars .irs-line-left, .cars .irs-line-right, .cars .irs-bar, .cars .irs-bar-edge, .cars .irs-slider {background: url(../img/sprite-skin-orange.png) repeat-x;}
+
+.cars .irs {height: 40px;}
+.cars .irs-with-grid {height: 60px;}
+.cars .irs-line {height: 8px;top: 25px;}
+.cars .irs-line-left {height: 8px; background-position: 0 -30px;}
+.cars .irs-line-mid {height: 8px; background-position: 0 0;}
+.cars .irs-line-right {height: 8px; background-position: 100% -30px;}
+.cars .irs-bar {height: 8px; top: 25px; background-position: 0 -60px;}
+.cars .irs-bar-edge {top: 25px; height: 8px; width: 11px; background-position: 0 -90px;}
+.cars .irs-shadow {height: 1px; top: 34px; background: #000; opacity: 0.15;}
+.cars .lt-ie9 .irs-shadow {filter: alpha(opacity=15);}
+.cars .irs-slider {width: 22px; height: 22px; top: 17px; background-position: 0 -120px;}
+.cars .irs-slider.state_hover, .hotels .irs-slider:hover {background-position: 0 -150px;}
+.cars .irs-min, .hotels .irs-max {color: #666D7B; font-size: 14px; line-height: 1.333; text-shadow: none;	top: 0;	padding: 1px 3px; -moz-border-radius: 3px;}
+.cars .lt-ie9 .irs-min, .hotels .lt-ie9 .irs-max {background: #ccc;}
+.cars .irs-from, .hotels .irs-to, .hotels .irs-single {color: #fff; font-size: 10px; line-height: 1.333; text-shadow: none; padding: 1px 5px; background: rgba(0,0,0,0.3); -moz-border-radius: 3px; border-radius: 3px;}
+.cars .lt-ie9 .irs-from, .hotels .lt-ie9 .irs-to, .hotels .lt-ie9 .irs-single {background: #999;}
+.cars .irs-grid-pol {background: #99a4ac;}
+.cars .irs-grid-text {color: #99a4ac;}
