@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.617 11.617">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666d7b;
+      }
+    </style>
+  </defs>
+  <g id="ic_grey_small_airplane" transform="translate(0)">
+    <g id="Group_1212" data-name="Group 1212" transform="translate(0 0)">
+      <path id="Path_766" data-name="Path 766" class="cls-1" d="M19.593,10.456l-2.41,2.282,1.528,6.156-.912.912-2.918-4.758-.067-.067-3,2.842c-.017.017-.036.03-.053.046l-.1,2.191L8.321,16.719l2.19-.1c.016-.018.029-.037.046-.054l2.842-3-.024-.024-4.8-2.96.912-.912,6.129,1.557,2.31-2.439a1.179,1.179,0,1,1,1.668,1.668Z" transform="translate(-8.321 -8.443)"/>
+    </g>
+  </g>
+</svg>

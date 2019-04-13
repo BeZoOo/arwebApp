@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.62 9.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b6b8be;
+      }
+    </style>
+  </defs>
+  <g id="ic_clock_small" transform="translate(0 0)">
+    <g id="Group_31068" data-name="Group 31068">
+      <path id="Path_48686" data-name="Path 48686" class="cls-1" d="M4.81,0A4.81,4.81,0,1,0,9.62,4.81,4.815,4.815,0,0,0,4.81,0Zm0,8.6A3.786,3.786,0,1,1,8.6,4.81,3.791,3.791,0,0,1,4.81,8.6Z"/>
+      <path id="Path_48687" data-name="Path 48687" class="cls-1" d="M47.02,19.825H44.858v-2.6a.4.4,0,1,0-.792,0v2.995a.4.4,0,0,0,.4.4H47.02a.4.4,0,1,0,0-.792Z" transform="translate(-39.703 -15.164)"/>
+    </g>
+  </g>
+</svg>
